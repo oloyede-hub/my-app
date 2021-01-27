@@ -48,7 +48,7 @@ h2 {
 	line-height: 32px;
 	font-weight: 400;
 	color: #1c1e21;
-	margin-left: 25px;
+	margin-left: 33px;
 	width:500px;
 	height: 64px;
 	padding-top: 0;
@@ -89,7 +89,6 @@ p {
  .forms {
  	width: 330px;
  	margin-right: 50px;
- 	padding-left: 0px;
  	padding: 10px;
  }
 
@@ -134,24 +133,13 @@ input {
 	border-radius: 5px;
 	margin-left:20px;
 
-	/*height: 48px;
-	width: 164px;*/
-
  }
 
  .input-btn {
  	height: 48px;
-	width: px;
-    margin-left:20px;
     background-color: #166FE5;
     font-size: 16px;
-	line-height: 48px;
 	color: #fff;
-	padding: 0 16px 0 16px;
-	outline: none;
  	cursor: pointer;
-	border: 2px solid gray;
-	border-radius: 5px;
-	margin-left:20px;
  }
 
