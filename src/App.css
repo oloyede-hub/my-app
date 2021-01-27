@@ -1,0 +1,157 @@
+
+
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ 	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+ }
+.App {
+ 	background-color: #F0F2F5;
+}
+
+ img {
+ 	width: 301px;
+ 	height: 106px;
+ 	background-color: #F2F0F5;
+ 	padding-bottom: 0;
+
+ }
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  
+}
+.container {
+	width: 980px;
+	height: 496px;
+	margin: 50px 185px  70px 185px;
+	padding: 0 20px  20px 0;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+
+.first-showcase{
+	width: 580px;
+	height: 280px;
+	
+}
+
+h2 {
+	font-size: 28px;
+	line-height: 32px;
+	font-weight: 400;
+	color: #1c1e21;
+	margin-left: 25px;
+	width:500px;
+	height: 64px;
+	padding-top: 0;
+}
+p {
+ 	padding-top: 20px;
+ 	text-align: center;
+
+ }
+
+.showcase-card-content {
+	height: 345px;
+	width: 396px;
+	background-color: white;
+	border-radius: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 10px  rgba(220,220,220 , 0.3);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+  .a {
+ 	display: inline-block;
+ 	text-decoration: none;
+ 	font-size: 14px;
+ 	line-height: 19px;
+ 	padding: 20px;
+ 	padding-bottom: 10px;
+ 	margin-bottom: 10px;
+ 	border-bottom: 1px;
+ 	cursor: pointer;
+
+ 	
+ }
+
+ .forms {
+ 	width: 330px;
+ 	margin-right: 50px;
+ 	padding-left: 0px;
+ 	padding: 10px;
+ }
+
+input {
+	font-size: 17px;
+	border: 1px solid gray;
+	outline: none;
+	margin: 5px;
+	width: 100%;
+	padding: 14px 16px 14px 16px;
+	border-radius: 5px;
+	line-height: 16px;
+	vertical-align: middle;
+
+}
+
+.button {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+.anchor-div {
+	border-bottom: 0.05px solid rgba(105,105,105, 0.2);
+	margin-bottom: 10px;
+	text-align: center;
+	width: 90%;
+
+}
+
+ .btn {
+	color: #1877f2;
+	background-color: #42b72A;
+	font-size: 16px;
+	line-height: 48px;
+	color: #fff;
+	padding: 0 16px 0 10px;
+	outline: none;
+ 	cursor: pointer;
+	border: 2px solid gray;
+	border-radius: 5px;
+	margin-left:20px;
+
+	/*height: 48px;
+	width: 164px;*/
+
+ }
+
+ .input-btn {
+ 	height: 48px;
+	width: px;
+    margin-left:20px;
+    background-color: #166FE5;
+    font-size: 16px;
+	line-height: 48px;
+	color: #fff;
+	padding: 0 16px 0 16px;
+	outline: none;
+ 	cursor: pointer;
+	border: 2px solid gray;
+	border-radius: 5px;
+	margin-left:20px;
+ }
+
